@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="tab_text_1">Bookmarks</string>
+    <string name="tab_text_2">Map</string>
+</resources>
